@@ -2,10 +2,6 @@
   Priyanka Patel | Portfolio v1.0<br/>
   <a href="https://github.com/Priyankapatel21/Portfolio" target="_blank">View Repository</a>
 </h2>
-<div align="center">
-  <img alt="Demo" src="./src/Assets/home-main.svg" width="400" />
-</div>
-
 <br/>
 
 ## Built With
