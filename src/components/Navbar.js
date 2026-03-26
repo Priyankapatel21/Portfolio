@@ -5,7 +5,6 @@ import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { Link } from "react-router-dom";
 import { CgGitFork } from "react-icons/cg";
-import { ImBlog } from "react-icons/im";
 import { AiOutlineMail } from "react-icons/ai";
 import {
   AiFillStar,

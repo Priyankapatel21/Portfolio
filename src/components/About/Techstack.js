@@ -19,7 +19,6 @@ import Tailwind from "../../Assets/TechIcons/Tailwind.svg";
 import Postman from "../../Assets/TechIcons/Postman.svg";
 import AWS from "../../Assets/TechIcons/AWS.svg";
 import { SiLeetcode } from "react-icons/si"; // Added LeetCode icon
-import { GiLogicGateNxor } from "react-icons/gi";
 
 function Techstack() {
   return (
