@@ -1,6 +1,6 @@
 <h2 align="center">
   Priyanka Patel | Portfolio v1.0<br/>
-  <a href="https://portfolio-lyart-iota-ghhjvnc0xz.vercel.app/" target="_blank">View Repository</a>
+  <a href="https://portfolio-lyart-iota-ghhjvnc0xz.vercel.app/" target="_blank">Project link</a>
 </h2>
 <br/>
 
