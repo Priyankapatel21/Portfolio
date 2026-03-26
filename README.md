@@ -8,23 +8,6 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/stars/Priyankapatel21/Portfolio?color=purple&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/Priyankapatel21/Portfolio?color=purple&logo=github&style=for-the-badge)
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/Priyankapatel21/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/Priyankapatel21/Portfolio/issues">Request Feature</a>
-</h3>
-
 ## Built With
 
 My personal portfolio which features my GitHub projects, resume, and technical skills.
@@ -58,7 +41,3 @@ Runs the app in development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ---
-
-### Show your support
-
-Give a ⭐ if you like this project!
